@@ -1,6 +1,6 @@
 ### Adout me
 ### Stack technologies
 - C++
--html
--css
--python
+- html
+- css
+- python
